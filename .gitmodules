@@ -1,3 +1,11 @@
 [submodule "1_Advances_in_Computer_Science"]
 	path = 1_Advances_in_Computer_Science
 	url = https://github.com/LiuYuan-SHU/Advances-in-CS.git
+[submodule "1_Advances_in_Computer_Science/"]
+	url = https://github.com/LiuYuan-SHU/Advances-in-CS.git
+[submodule "Structure-of-Computer-System"]
+	path = Structure-of-Computer-System
+	url = https://github.com/LiuYuan-SHU/Structure-of-Computer-System.git
+[submodule "2_The_Structure_of_Computer_System"]
+	path = 2_The_Structure_of_Computer_System
+	url = https://github.com/LiuYuan-SHU/Structure-of-Computer-System.git
